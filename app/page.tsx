@@ -1,16 +1,15 @@
-import Image from "next/image";
-
 const page = () => {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gray-50">
+    <main className="flex px-20 min-h-screen flex-col items-center justify-center bg-gray-50">
       <header className="flex flex-col items-center mb-8 text-center">
-        <Image
+        {/* <Image
           src="/logo2.svg"
           alt="Docker Logo"
           width={100}
           height={100}
           priority
-        />
+        /> */}
+        <h1 className="text-6xl font-bold text-blue-500">🐋 Docker</h1>
         <h1 className="mt-4 text-4xl font-bold text-gray-900">
           Welcome to Your Dockerized Next.js Project 🚀
         </h1>
@@ -67,7 +66,7 @@ const page = () => {
         <p>
           Made with ❤️ by{" "}
           <a
-            href="https://medium.com/@itsuki.enjoy"
+            href="https://github.com/Navishh/nextjs-dockerized"
             className="text-blue-500 hover:underline"
             target="_blank"
           >
