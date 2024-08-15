@@ -29,6 +29,8 @@ nextjs docs: [https://nextjs.org/docs/app/getting-started/installation](https://
 
    - `docker run -p port_no:port_no <dockerhub-username><target-image>:<target-tag>`
 
+[share w your peers to see the progress w Livecycle](https://nextapp-nextjs-dockerized-dev-pr-vbnbubo0.livecycle.run)
+
 **Github repository link:** [nextjs-dockerized github repo link](https://github.com/Navishh/nextjs-dockerized)
 
 **Medium link:** [https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d](https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d)

@@ -2,12 +2,13 @@
   "name": "nextjs-dockerized",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "cross-env PORT=4000 next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+ "scripts": {
+  "dev": "cross-env PORT=4000 next dev -H 0.0.0.0",
+  "build": "next build",
+  "start": "cross-env PORT=4000 next start -H 0.0.0.0",
+  "lint": "next lint"
+}
+,
   "dependencies": {
     "next": "15.1.0",
     "react": "^19.0.0",
