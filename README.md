@@ -18,18 +18,16 @@ nextjs docs: [https://nextjs.org/docs/app/getting-started/installation](https://
 7. docker tag `<source-image>`:`<source-tag>` `<dockerhub-username><target-image>`:`<target-tag>`
 
    - example: `docker tag dn_img1/dockerized-nextjs:latest navish123/dockerized-nextjs:latest`
-
 8. `docker push <dockerhub-username><target-image>:<target-tag>`
 
    - example: `docker push navish123/dockerized-nextjs:latest`
-
 9. `docker run -p 3000:3000 navish123/dockerized-nextjs:latest`
 
    #use the image by following the format
 
    - `docker run -p port_no:port_no <dockerhub-username><target-image>:<target-tag>`
 
-[share w your peers to see the progress w Livecycle](https://nextapp-nextjs-dockerized-dev-pr-vbnbubo0.livecycle.run/)
+[share w your peers to see the progress w Livecycle](https://nextapp-nextjs-dockerized-dev-pr-vbnbubo0.livecycle.run)
 
 **Github repository link:**[nextjs-dockerized github repo link](https://github.com/Navishh/nextjs-dockerized)
 
