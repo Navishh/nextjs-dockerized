@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  nextapp:
+    container_name: nextjs-dockerized
+    image: dn_img1/dockerized-nextjs
+    build: .
+    ports:
+      - "4000:4000"
