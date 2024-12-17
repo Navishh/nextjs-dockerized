@@ -29,6 +29,6 @@ nextjs docs: [https://nextjs.org/docs/app/getting-started/installation](https://
 
 **Github repository link:** [nextjs-dockerized github repo link](https://github.com/Navishh/nextjs-dockerized)
 
-**Medium link:**[ https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d]([https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d]())
+**Medium link:**[https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d]([https://medium.com/@itsuki.enjoy/dockerize-a-next-js-app-4b03021e084d]())
 
 **Livecycle link:** [livecycle link](https://livecycle.io/)
